@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<app version="1">
+		<name>TrojanWii</name>
+		<coder>Jon Conrad</coder>
+		<version>Unknown</version>
+		<release_date>20080317</release_date>
+		<short_description>Trojan LCD Simulator for Wii</short_description>
+		<long_description>Here is the Trojan LCD game simulator I wrote. I have it running on PC, OSX, NDS, Wii and the original xbox. I decided to write it using SDL so It would port easliy. OS X was the easiest while the PC and Visual Studio was a big pain in the butt. I didn’t simulate the date or time functions as I was only interested in the game play element. Have Fun.</long_description>
+	</app>
